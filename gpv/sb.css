@@ -194,7 +194,7 @@ background-position: 0 -70px;
 
 .custom .stick {
     position: absolute;
-    background: url(assets/sticks.svg);
+    background: url(assets/stick.svg);
     height: 94px;
     width: 94px;
 }
