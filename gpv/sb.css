@@ -4,7 +4,7 @@
 	width: 806px;
 }
 
-.custom.ds4 .sticks {
+.custom .sticks {
     position: absolute;
     width: 361px;
     height: 105px;
@@ -12,27 +12,27 @@
     left: 228px;
 }
 
-.custom.ds4 .stick {
+.custom .stick {
     position: absolute;
     background: url(assets/sticks.svg);
     height: 94px;
     width: 94px;
 }
 
-.custom.ds4 .stick.pressed.left {
+.custom .stick.pressed.left {
     background-position-x: -96px;
 }
 
-.custom.ds4 .stick.pressed.right {
+.custom .stick.pressed.right {
     background-position-x: -192px;
 }
 
-.custom.ds4 .stick.left {
+.custom .stick.left {
     top: 0;
     left: 0;
 }
 
-.custom.ds4 .stick.right {
+.custom .stick.right {
     top: calc(100% - 105px);
     left: calc(100% - 105px);
 }
