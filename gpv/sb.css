@@ -118,7 +118,7 @@ background-position: 0 -70px;
     left: 227px;
 }
 
-.custom .back, .ds4 .start {
+.custom .back, .custom .start {
     background: url(assets/start.svg);
     width: 28px;
     height: 46px;
@@ -235,7 +235,7 @@ background-position: 0 -70px;
     height: 52px;
 }
 
-.ds4 .face.left, .custom .face.right {
+.custom .face.left, .custom .face.right {
     width: 52px;
     height: 36px;
 }
@@ -269,6 +269,6 @@ background-position: 0 -70px;
     background-position-y: 52px;
 }
 
-.ds4.half {
+.custom.half {
     margin-top: -300px;
 }
