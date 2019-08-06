@@ -169,10 +169,10 @@ background-position: 0 -70px;
 	width: 55px;
 	height: 55px;
 
-    background-position: 0 0;
+    background-position: 0 58;
     bottom: 0;
-/*    left: 58px;
-*/    right: -193px;
+    left: 58px;
+    right: -193px;
 }
 
 .custom .b {
