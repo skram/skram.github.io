@@ -153,8 +153,8 @@ background-position: 0 -70px;
 
 .custom .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+/*    width: 55px;
+    height: 55px;*/
     background: url(assets/face.svg);
     background-repeat: no-repeat;
 }
@@ -165,9 +165,13 @@ background-position: 0 -70px;
 }
 
 .custom .a {
+	
+	width: 55px;
+	height: 55px;
+
     background-position: 0 0;
-    bottom: 0;
-    left: 58px;
+/*    bottom: 0;
+    left: 58px;*/
 }
 
 .custom .b {
