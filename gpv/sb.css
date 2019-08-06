@@ -27,14 +27,11 @@
     background-repeat: no-repeat;
 }
 
-.custom .trigger.left {
+.custom.trigger.left {
     float: left;
-    background-position-x: -206px;
-    background-position-y: 351px;
-
 }
 
-.custom .trigger.right {
+.custom.trigger.right {
     float: right;
     background-position-x: 99px;
 }
