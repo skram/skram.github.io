@@ -147,10 +147,10 @@ background-position: 0 -70px;
 
 .custom .abxy {
     position: absolute;
-    width: 170px;
+/*    width: 170px;
     height: 171px;
     top: 159px;
-    left: 567px;
+    left: 567px;*/
 }
 
 .custom .button {
@@ -178,6 +178,9 @@ background-position: 0 -70px;
 }
 
 .custom .x {
+	position: absolute;
+	width: 55px;
+	height: 55px;
     background-position: -113px 0;
     top: 58px;
 }
