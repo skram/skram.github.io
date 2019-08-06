@@ -13,7 +13,6 @@
 }
 
 .custom .triggers {
-
     position: absolute;
     left:10px;
 }
@@ -23,7 +22,6 @@
     height: 136px;
     background: url(assets/triggers.svg);
     background-repeat: no-repeat;
-
 }
 
 .custom .trigger.left {
@@ -158,6 +156,7 @@ background-position: 0 -70px;
     width: 55px;
     height: 55px;
     background: url(assets/face.svg);
+    background-repeat: no-repeat;
 }
 
 .custom .button.pressed {
