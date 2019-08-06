@@ -13,26 +13,29 @@
 }
 
 .custom .triggers {
-    width: 588px;
-    height: 90px;
+
     position: absolute;
-    left: 109px;
+    left:10px;
 }
 
 .custom .trigger {
-    width: 99px;
-    height: 100%;
+    width: 200px;
+    height: 136px;
     background: url(assets/triggers.svg);
-    opacity: 0;
+    background-repeat: no-repeat;
+
 }
 
 .custom .trigger.left {
     float: left;
+    background-position-x: 99px;
 }
 
 .custom .trigger.right {
     float: right;
-    background-position-x: 99px;
+    right: -586px;
+    position: absolute;
+    background-position-x: -99px;
 }
 
 .custom .bumper {
