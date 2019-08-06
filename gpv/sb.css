@@ -155,8 +155,8 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(assets/face.svg);
-/*    background-repeat: no-repeat;
+/*    background: url(assets/face.svg);
+*//*    background-repeat: no-repeat;
 */}
 
 .custom .button.pressed {
@@ -171,6 +171,7 @@ background-position: 0 -70px;
 /*    background-position: 0 0;
 */    right: 55px;
     bottom: 0px;
+    background: url(assets/button-x.svg);
     background-position-x: 55px;
     background-position-y: 0px;
 }
