@@ -28,6 +28,8 @@
 
 .custom .trigger.left {
     float: left;
+    left: -206px;
+    top: 351px;
 }
 
 .custom .trigger.right {
