@@ -165,12 +165,13 @@ background-position: 0 -70px;
 }
 
 .custom .a {
-/*	position: absolute;
-*/	width: 55px;
+	position: absolute;
+	width: 55px;
 	height: 55px;
-    background-position: 0 0;
-    right: 169px;
+/*    background-position: 0 0;
+*/    right: -169px;
     bottom: 58px;
+    top:0px;
 }
 
 .custom .b {
