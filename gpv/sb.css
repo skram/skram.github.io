@@ -186,8 +186,8 @@ background-position: 0 -70px;
 
 .custom .sticks {
     position: absolute;
-    width: 361px;
-    height: 105px;
+    width: 387px;
+    height: 131px;
     top: 308px;
     left: 228px;
 }
@@ -197,7 +197,6 @@ background-position: 0 -70px;
     background: url(assets/stick.svg);
     height: 120px;
     width: 120px;
-    background-repeat: no-repeat; 
 }
 
 .custom .stick.pressed.left {
