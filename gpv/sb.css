@@ -24,14 +24,13 @@
     height: 100%;
     background: url(assets/triggers.svg);
     opacity: 0;
-    background-repeat: no-repeat;
 }
 
-.custom.trigger.left {
+.custom .trigger.left {
     float: left;
 }
 
-.custom.trigger.right {
+.custom .trigger.right {
     float: right;
     background-position-x: 99px;
 }
