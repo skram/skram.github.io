@@ -160,9 +160,9 @@ background-position: 0 -70px;
 */}
 
 .custom .button.pressed {
-    background-position-y: 55px;
+/*    background-position-y: 55px;
     color: #9356c9;
-    opacity: 0.5;
+    opacity: 0.5;*/
 }
 
 .custom .a {
@@ -171,6 +171,14 @@ background-position: 0 -70px;
     right: 56px;
     bottom: 0px;
     background: url(assets/button-x.svg);
+}
+
+.custom .a.pressed {
+	position: absolute;
+    background-position: 0 0;
+    right: 56px;
+    bottom: 0px;
+    background: url(assets/button-x-pressed.svg);
 }
 
 .custom .b {
