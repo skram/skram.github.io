@@ -281,6 +281,13 @@ background-position: 0 -70px;
     background-position: -37px 0px;
 }
 
+.custom .face.up.pressed {
+	background: url(assets/dpad-up-pressed.svg);
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
+}
+
 .custom .face.down {
 	background: url(assets/dpad-down.svg);
     left: 44px;
@@ -304,7 +311,7 @@ background-position: 0 -70px;
 .custom .face.left.pressed {
 	background: url(assets/dpad-left-pressed.svg);
     top: 45px;
-    left: 0;
+    left: -1;
     background-position: 104px 0;
 }
 
