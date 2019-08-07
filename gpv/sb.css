@@ -187,8 +187,8 @@ background-position: 0 -70px;
 	background: url(assets/button-circle.svg);
 	width: 55px;
 	height: 55px;
-    background-position: -57px 0;
-    top: 58px;
+/*    background-position: -57px 0;
+*/    top: 58px;
     right: 0px;
 }
 .custom .b.pressed {
@@ -260,8 +260,8 @@ background-position: 0 -70px;
 }
 
 .custom .face {
-    background: url(assets/dpad.svg);
-    position: absolute;
+/*    background: url(assets/dpad.svg);
+*/    position: absolute;
 }
 
 .custom .face.up, .custom .face.down {
@@ -275,24 +275,28 @@ background-position: 0 -70px;
 }
 
 .custom .face.up {
+	background: url(assets/dpad-up.svg);
     left: 44px;
     top: 0;
     background-position: -37px 0px;
 }
 
 .custom .face.down {
+	background: url(assets/dpad-down.svg);
     left: 44px;
     bottom: 0;
     background-position: 0px 0;
 }
 
 .custom .face.left {
+	background: url(assets/dpad-left.svg);
     top: 45px;
     left: 0;
     background-position: 104px 0;
 }
 
 .custom .face.right {
+	background: url(assets/dpad-right.svg);
     top: 45px;
     right: 0px;
     background-position: 52px 0;
