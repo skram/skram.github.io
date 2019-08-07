@@ -290,6 +290,9 @@ background-position: 0 -70px;
 
 .custom .face.down.pressed {
 	background: url(assets/dpad-down-pressed.svg);
+	background-position: 0px 0;
+	left: 44px;
+	bottom: 0;
 }
 
 .custom .face.left {
