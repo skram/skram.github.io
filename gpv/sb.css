@@ -288,6 +288,10 @@ background-position: 0 -70px;
     background-position: 0px 0;
 }
 
+.custom .face.down.pressed {
+	background: url(assets/dpad-down-pressed.svg);
+}
+
 .custom .face.left {
 	background: url(assets/dpad-left.svg);
     top: 45px;
@@ -304,8 +308,8 @@ background-position: 0 -70px;
 
 .custom .face.pressed {
     /* margin-top: 5px; */
-    background-position-y: 52px;
-}
+/*    background-position-y: 52px;
+*/}
 
 .custom.half {
     margin-top: -300px;
