@@ -189,9 +189,15 @@ background-position: 0 -70px;
     right: 0px;
 }
 
+/*Square*/
 .custom .x {
+	background: url(assets/button-square.svg);
     background-position: -113px 0;
     top: 58px;
+}
+.custom .x.pressed {
+	position: absolute;
+    background: url(assets/button-square-pressed.svg);
 }
 
 .custom .y {

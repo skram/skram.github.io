@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="56px" viewBox="0 0 55 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill-rule="nonzero">
+            <g>
+                <path d="M27.8,54.2 C13.3,54.2 1.5,42.4 1.5,27.9 C1.5,13.4 13.3,1.7 27.8,1.7 C42.3,1.7 54,13.5 54,27.9 C54,42.3 42.2,54.2 27.8,54.2 Z" id="Path" fill="#9356C9"></path>
+                <path d="M27.8,2.7 C41.7,2.7 53,14 53,28 C53,42 41.7,53.2 27.8,53.2 C13.9,53.2 2.5,41.9 2.5,28 C2.5,14.1 13.8,2.7 27.8,2.7 L27.8,2.7 Z M27.8,0.7 C12.8,0.7 0.5,12.9 0.5,28 C0.5,43.1 12.7,55.3 27.8,55.3 C42.9,55.3 55,43 55,28 C55,13 42.8,0.7 27.8,0.7 L27.8,0.7 Z" id="Shape" fill="#37BCED"></path>
+            </g>
+            <path d="M27.8,9.1 C17.4,9.1 8.9,17.6 8.9,28 C8.9,38.4 17.4,46.9 27.8,46.9 C38.2,46.9 46.7,38.4 46.7,28 C46.6,17.5 38.2,9.1 27.8,9.1 Z M27.8,44 C18.9,44 11.8,36.8 11.8,28 C11.8,19.1 19,12 27.8,12 C36.6,12 43.8,19.2 43.8,28 C43.8,36.8 36.6,44 27.8,44 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
