@@ -190,6 +190,8 @@ background-position: 0 -70px;
     right: 56px;
     bottom: 0px;
     background: url(assets/button-x-pressed.svg);
+    animation: shadow-pulse 1s infinite;
+
 }
 
 /*Circle*/
@@ -203,6 +205,8 @@ background-position: 0 -70px;
 }
 .custom .b.pressed {
 	background: url(assets/button-circle-pressed.svg);
+	animation: shadow-pulse 1s infinite;
+
 }
 
 /*Square*/
@@ -215,6 +219,8 @@ background-position: 0 -70px;
 .custom .x.pressed {
 	position: absolute;
     background: url(assets/button-square-pressed.svg);
+    animation: shadow-pulse 1s infinite;
+
 }
 
 /*Triangle*/
@@ -226,6 +232,8 @@ background-position: 0 -70px;
 /*Triangle*/
 .custom .y.pressed {
 	background: url(assets/button-triangle-pressed.svg);
+	animation: shadow-pulse 1s infinite;
+
 }
 
 .custom .sticks {
