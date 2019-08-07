@@ -165,6 +165,7 @@ background-position: 0 -70px;
     opacity: 0.5;*/
 }
 
+/*X Button*/
 .custom .a {
 	position: absolute;
     background-position: 0 0;
@@ -181,18 +182,24 @@ background-position: 0 -70px;
     background: url(assets/button-x-pressed.svg);
 }
 
+/*Circle*/
 .custom .b {
+	background: url(assets/button-circle.svg);
 	width: 55px;
 	height: 55px;
     background-position: -57px 0;
     top: 58px;
     right: 0px;
 }
+.custom .b.pressed {
+	background: url(assets/button-circle-pressed.svg);
+}
 
 /*Square*/
 .custom .x {
+	position: absolute;
 	background: url(assets/button-square.svg);
-    background-position: -113px 0;
+    background-position: -110px 0;
     top: 58px;
 }
 .custom .x.pressed {
@@ -200,9 +207,15 @@ background-position: 0 -70px;
     background: url(assets/button-square-pressed.svg);
 }
 
+/*Triangle*/
 .custom .y {
+	background: url(assets/button-triangle.svg);
     background-position: 55px 0;
     left: 58px;
+}
+/*Triangle*/
+.custom .y.pressed {
+	background: url(assets/button-triangle-pressed.svg);
 }
 
 .custom .sticks {
