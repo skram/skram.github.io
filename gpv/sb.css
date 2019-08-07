@@ -311,7 +311,7 @@ background-position: 0 -70px;
 .custom .face.left.pressed {
 	background: url(assets/dpad-left-pressed.svg);
     top: 45px;
-    left: -1;
+    left: -1px;
     background-position: 104px 0;
 }
 
