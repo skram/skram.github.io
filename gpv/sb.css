@@ -2,10 +2,8 @@
 .controller.custom {
 	display: block;
 	background: url(assets/base.svg);
-/*	height: 598px;
-*/	width: 806px;
-	max-width: 100%;
-	height: auto;
+	height: 598px;
+	width: 806px;
 }
 
 .custom.disconnected {
